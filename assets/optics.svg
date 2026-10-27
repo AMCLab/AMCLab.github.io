@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="50 0 200 200" role="img" aria-label="Electron rays traced through a lens column">
+  <rect width="300" height="200" fill="#f0a830"/>
+  <line x1="150" y1="12" x2="150" y2="188" stroke="#00515a" stroke-width="1.4" stroke-dasharray="4 4"/>
+  <g stroke="#00515a" stroke-width="1.8" fill="none" opacity=".95">
+    <path d="M150 18 L112 70 L150 118 L128 182"/>
+    <path d="M150 18 L131 70 L150 118 L139 182"/>
+    <path d="M150 18 L169 70 L150 118 L161 182"/>
+    <path d="M150 18 L188 70 L150 118 L172 182"/>
+  </g>
+  <g fill="#ffffff" stroke="#00515a" stroke-width="1">
+    <rect x="96"  y="63"  width="30" height="14" rx="3"/>
+    <rect x="174" y="63"  width="30" height="14" rx="3"/>
+    <rect x="112" y="111" width="30" height="14" rx="3"/>
+    <rect x="158" y="111" width="30" height="14" rx="3"/>
+  </g>
+  <circle cx="150" cy="18" r="4" fill="#00515a" stroke="#00515a" stroke-width="1"/>
+  <rect x="60" y="182" width="180" height="6" rx="2" fill="#00515a" stroke="#00515a" stroke-width=".8"/>
+</svg>
